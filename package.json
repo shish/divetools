@@ -18,6 +18,6 @@
     "devDependencies": {
         "@rsbuild/core": "^2.2.10",
         "@rsbuild/plugin-sass": "^2.0.1",
-        "@biomejs/biome": "^2.5"
+        "@biomejs/biome": "^2.6"
     }
 }
